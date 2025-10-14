@@ -61,6 +61,7 @@
 <ul>
   <li>Data Structures & Algorithms (DSA)</li>
   <li>Object-Oriented Programming (OOP)</li>
+  <li>Frontend Development</li>
   <li>RESTful APIs</li>
   <li>Software Design Patterns</li>
   <li>Jest / Testing Frameworks</li>
