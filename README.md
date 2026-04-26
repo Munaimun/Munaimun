@@ -21,25 +21,25 @@
 ---
 
 ### 🌐 Connect with me
+<h3 align="left">🌐 Connect with me:</h3>
 
 <p align="center">
-  <a href="https://munaimunz.me">
+  <a href="https://munaimunz.me" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" height="30" width="30"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/munaimun">
+  
+  <a href="https://linkedin.com/in/munaimun" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/munaimunz">
+  
+  <a href="https://www.facebook.com/munaimunz" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30" width="30"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/c/viewfinder_fady">
+  
+  <a href="https://www.youtube.com/c/viewfinder_fady" style="display:inline-block;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="30" width="30"/>
   </a>
 </p>
-
 ---
 
 ### 🛠 Languages and Tools
