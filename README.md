@@ -20,26 +20,30 @@
 
 ---
 
-### 🌐 Connect with me
-<h3 align="left">🌐 Connect with me:</h3>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-<p align="center">
-  <a href="https://munaimunz.me" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" height="30" width="30"/>
-  </a>
+  <h3 style="margin: 0;">Connect with me</h3>
+
+  <div style="display: flex; gap: 12px; align-items: center;">
   
-  <a href="https://linkedin.com/in/munaimun" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"/>
-  </a>
-  
-  <a href="https://www.facebook.com/munaimunz" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30" width="30"/>
-  </a>
-  
-  <a href="https://www.youtube.com/c/viewfinder_fady" style="display:inline-block;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="30" width="30"/>
-  </a>
-</p>
+    <a href="https://munaimunz.me">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" height="30" width="30"/>
+    </a>
+
+    <a href="https://linkedin.com/in/munaimun">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="30"/>
+    </a>
+
+    <a href="https://www.facebook.com/munaimunz">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" height="30" width="30"/>
+    </a>
+
+    <a href="https://www.youtube.com/c/viewfinder_fady">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" height="30" width="30"/>
+    </a>
+
+  </div>
+</div>
 ---
 
 ### 🛠 Languages and Tools
